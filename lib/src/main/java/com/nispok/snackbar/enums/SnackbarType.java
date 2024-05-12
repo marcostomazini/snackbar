@@ -10,7 +10,6 @@ public enum SnackbarType {
      * Snackbar with two lines
      */
     MULTI_LINE(48, 80, 2),
-
     EAM_LINE(48, 100, 5);
 
     private int minHeight;
